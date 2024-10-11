@@ -6,7 +6,7 @@
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjan-epili&theme=darkhub&no-frame=true&row=1&margin-w=15" alt="niranjan-epili" /></a>
 
-<a href="https://twitter.com/niranjan_epili1" target="blank"><img src="https://img.shields.io/twitter/follow/niranjan_epili1?logo=twitter&style=for-the-badge" alt="niranjan_epili1" /></a>
+<a href="https://www.linkedin.com/in/niranjan-epili-24509528b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="Niranjan Epili LinkedIn" /></a>
 
 - 🔭 **I'm currently working on:** Webscrapper
 - 🌱 **I'm currently learning:** Blue teaming
