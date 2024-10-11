@@ -67,11 +67,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=niranjan-epili&show_icons=true&locale=en&theme=dark&bg_color=000000&text_color=FFFFFF&icon_color=808080&title_color=A9A9A9" alt="niranjan-epili" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=niranjan-epili&theme=dark&background=000000&ring=808080&fire=A9A9A9&currStreakNum=FFFFFF&currStreakLabel=A9A9A9&sideNums=FFFFFF&sideLabels=A9A9A9&dates=808080" alt="niranjan-epili" />
-
-### Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
